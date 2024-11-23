@@ -36,8 +36,7 @@ More projects are on the way. I’m currently working on some exciting ideas. St
 - 📧 Email: [sahilmohammed7474@gmail.com](mailto:sahilmohammed7474@gmail.com)
 - 🌐 Portfolio: *Coming Soon!*
 - 📸 Instagram: [@potatochippps__](https://instagram.com/potatochippps__)
-- 💼 LinkedIn: [www.linkedin.com/in/mohammed-sahil-8112a82a4](https://linkedin.com/in/mohammed-sahil-8112a82a4l)
-
+- 💼 LinkedIn: [www.linkedin.com/in/mohammed-sahil-8112a82a4](https://www.linkedin.com/in/mohammed-sahil-8112a82a4/)
 ---
 
 
