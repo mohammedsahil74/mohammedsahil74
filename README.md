@@ -39,6 +39,5 @@ More projects are on the way. I’m currently working on some exciting ideas. St
 - 📸 Instagram: [@potatochippps__](https://instagram.com/potatochippps__)
 - 💼 LinkedIn: [www.linkedin.com/in/mohammed-sahil-8112a82a4](https://www.linkedin.com/in/mohammed-sahil-8112a82a4/)
 ---
-<a href="https://app.daily.dev/mohammedsahil"><img src="https://api.daily.dev/devcards/v2/8BVu5TUHqEgz7KyylrT3D.png?type=default&r=mbr" width="356" alt="mohammedsahil's Dev Card"/></a>
 
 
