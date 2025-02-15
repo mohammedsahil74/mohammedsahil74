@@ -6,7 +6,7 @@ Welcome to a place where creativity meets code and passion drives purpose. I’m
 
 - 🌱 Currently pursuing **Full Stack Web Development** at [PW Skills](https://www.pwskills.com).
 - 💡 Driven by a passion for **innovation** and **problem-solving**.
-- 🎯 Goal: To become a **self-taught programmer**, build a tech startup, and achieve financial independence by 25.
+- 🎯 Goal: To become a **self-taught programmer**, 
 - 🧑‍💻 Tech Enthusiast: I love crafting websites, exploring game development, and capturing cinematic visuals.
 
 ## 💻 Tech Stack
@@ -19,9 +19,6 @@ Backend technologies coming soon: **Node.js**, **Express.js**, and **MongoDB**!
 ### 🎨 Portfolio Website
 https://mohammed-sahil-portfolio.netlify.app/
 
-A modern personal portfolio that highlights my skills and projects.  
-- **Tech Stack**: HTML, CSS (JavaScript coming soon).  
-- **Live Demo**: Coming Soon!
 
 ### 💡 More Projects
 
