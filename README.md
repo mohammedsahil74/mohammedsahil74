@@ -1,40 +1,32 @@
-# 👋 Hello! I’m Sahil.
+# Hi there, I'm Mohammed Sahil 👋
 
-Welcome to a place where creativity meets code and passion drives purpose. I’m an aspiring **Full Stack Web Developer** on a mission to build impactful digital experiences and solve real-world problems through technology.
+## About Me
 
-## ✨ About Me
+- 🔭 I’m currently working on various web development projects.
+- 🌱 I’m currently learning advanced JavaScript, React, and Node.js.
+- 👯 I’m looking to collaborate on open-source projects and hackathons.
+- 🤔 I’m looking for help with cloud computing and DevOps practices.
+- 💬 Ask me about web development, JavaScript, and open-source contributions.
+- 📫 How to reach me: [mohammedsahil74@example.com](mailto:mohammedsahil74@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
 
-- 🌱 Currently pursuing **Full Stack Web Development** at [PW Skills](https://www.pwskills.com).
-- 💡 Driven by a passion for **innovation** and **problem-solving**.
-- 🎯 Goal: To become a **self-taught programmer**, 
-- 🧑‍💻 Tech Enthusiast: I love crafting websites, exploring game development, and capturing cinematic visuals.
+## My GitHub Stats
 
-## 💻 Tech Stack
+![Mohammed Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedsahil74&show_icons=true&theme=radical)
 
-I am currently learning **JavaScript** and frameworks such as **React**.  
-Backend technologies coming soon: **Node.js**, **Express.js**, and **MongoDB**!
+## Languages and Tools
 
-## 🚀 Projects
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
-### 🎨 Portfolio Website
-https://mohammed-sahil-portfolio.netlify.app/
+## Connect with Me
 
-
-### 💡 More Projects
-
-More projects are on the way. I’m currently working on some exciting ideas. Stay tuned!
-
-## 📚 What I’m Learning Now
-
-- Understanding **JavaScript** and its frameworks.
-- Exploring backend technologies like **Node.js** and databases.
-
-## 🤝 Let’s Connect!
-
-- 📧 Email: [sahilmohammed7474@gmail.com](mailto:sahilmohammed7474@gmail.com)
-- 🌐 Portfolio: [https://mohammed-sahil-portfolio.netlify.app/]
-- 📸 Instagram: [@potatochippps__](https://instagram.com/potatochippps__)
-- 💼 LinkedIn: [www.linkedin.com/in/mohammed-sahil-8112a82a4](https://www.linkedin.com/in/mohammed-sahil-8112a82a4/)
----
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammedsahil74)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/mohammedsahil74)
