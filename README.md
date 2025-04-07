@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on various web development projects.
 - 🌱 I’m currently learning advanced JavaScript, React, and Node.js.
-- 📫 How to reach me: [mohammedsahil74@example.com](mailto:mohammedsahil74@example.com)
+- 📫 How to reach me: [mohammedsahil74@example.com](mailto:sahilmohammed7474@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing valorant and bgmi in my free time.
 
